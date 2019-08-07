@@ -1,0 +1,6 @@
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\bin\AspxLearn.dll.config
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\bin\AspxLearn.dll
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\bin\AspxLearn.pdb
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\obj\Debug\AspxLearn.csprojResolveAssemblyReference.cache
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\obj\Debug\AspxLearn.dll
+c:\users\igga\documents\visual studio 2013\Projects\AspxLearn\AspxLearn\obj\Debug\AspxLearn.pdb
